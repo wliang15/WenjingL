@@ -3,7 +3,7 @@
 ### I am Wenjing :)
 - A sophomore majoring in Accounting 
 - Interested in Data Analytics
-- Currently learning web related materials in Python
+- Currently learning Python web related materials in Harp 151 
 - From Brooklyn, NY / Guangdong, China
 - Fun Fact: I used to play the guitar 
 - Fun Fact 2: I used to love math until I get to college 
